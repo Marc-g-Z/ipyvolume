@@ -1,0 +1,912 @@
+repo_name: Marc-g-Z/ipyvolume
+report_id: 49ee28010ac0f4124b148db7da06b346
+repo_type: Public
+timestamp: '2023-11-09T15:23:53+00:00'
+requested_by: maartenbreddels
+provider: github
+branch: master
+detected_tools_count: 69
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: GLSL
+  description: A high-level C-style language
+  website_url: https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  version: 2.3.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2018-08-09 17:47:14.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source: setup.py
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2020-03-30 13:08:45.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-01-28 20:29:01.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.14.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: ui-tests/yarn.lock
+  detection_source: js/.babelrc
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2018-07-16 11:29:36.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/release.yml"
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-05-17 09:50:32.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 3.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: setup.py
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source: js/package.json
+  last_updated_by: Oleh Kozynets
+  last_updated_on: 2018-06-29 14:57:49.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 2.4.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Oleh Kozynets
+  last_updated_on: 2018-06-29 15:02:56.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.37.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: js/package-lock.json
+  detection_source: jslab/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: ui-tests/yarn.lock
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source: requirements_rtd.txt
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-01-21 18:33:28.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source: Repo Metadata
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-10-29 10:32:14.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source: setup.py
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source: requirements_rtd.txt
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-01-21 08:28:28.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: docutils
+  description: "http://t.co/lH6rcPxBja Service Outage and other informational alerts.\r\n\r\nFor
+    support, see ticket/IRC/email information on http://t.co/nE5akSwLqM"
+  website_url: http://docutils.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8480/LI68uG-2_normal.jpg
+  detection_source: requirements_rtd.txt
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-10-29 14:57:37.000000000 Z
+- name: three.js
+  description: A JavaScript 3D library
+  website_url: https://threejs.org/
+  version: 0.91.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/5883/preview.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-06-29 19:29:03.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-11-04 09:37:33.000000000 Z
+- name: "@types/d3"
+  description: TypeScript definitions for d3JS
+  package_url: https://www.npmjs.com/@types/d3
+  version: 5.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17747/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-11-04 09:37:33.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 2.2.48
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-11-04 09:37:33.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-11-04 09:37:33.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 5.12.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2016-12-21 15:19:55.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 12.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-10-29 10:32:14.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.2.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: gl-matrix
+  description: Javascript Matrix and Vector library for High Performance WebGL apps
+  package_url: https://www.npmjs.com/gl-matrix
+  version: 2.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17926/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-01-18 13:53:46.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: js/package-lock.json
+  detection_source: jslab/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: karma-chai
+  description: Chai for Karma
+  package_url: https://www.npmjs.com/karma-chai
+  version: 0.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16177/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: karma-mocha-reporter
+  description: Karma reporter with mocha style logging
+  package_url: https://www.npmjs.com/karma-mocha-reporter
+  version: 2.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16127/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: karma-sinon
+  description: Sinon for Karma
+  package_url: https://www.npmjs.com/karma-sinon
+  version: 1.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16601/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-13 14:24:30.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: karma-webpack
+  description: Use webpack with karma
+  package_url: https://www.npmjs.com/karma-webpack
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15955/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: ndarray
+  description: Multidimensional Arrays
+  package_url: https://www.npmjs.com/ndarray
+  version: 1.0.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17875/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2019-02-06 17:32:09.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-09-21 13:39:40.000000000 Z
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: js/package-lock.json
+  detection_source: jslab/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 3.0.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: js/package-lock.json
+  detection_source: ui-tests/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: screenfull
+  description: Simple wrapper for cross-browser usage of the JavaScript Fullscreen
+    API
+  package_url: https://www.npmjs.com/screenfull
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17952/default_d8903d76dded6915fe2da53370802097e7af05c2.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-08-08 10:25:41.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 2.14.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Oleh Kozynets
+  last_updated_on: 2018-06-29 15:02:56.000000000 Z
+- name: source-map-loader
+  description: Extracts inlined source map and offers it to webpack
+  package_url: https://www.npmjs.com/source-map-loader
+  version: 0.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16190/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: three
+  description: JavaScript 3D library
+  package_url: https://www.npmjs.com/three
+  version: 0.91.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16653/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-06-29 19:29:03.000000000 Z
+  vulnerabilities:
+  - name: Cross site scripting in three.js
+    cve_id: CVE-2022-0177
+    cve_url: https://github.com/advisories/GHSA-7vvq-7r29-5vg3
+    detected_date: Jan 28
+    severity: high
+    first_patched: 0.137.0
+  - name: Denial of service in three
+    cve_id: CVE-2020-28496
+    cve_url: https://github.com/advisories/GHSA-fq6p-x6j3-cmmq
+    detected_date: Aug 22
+    severity: high
+    first_patched: 0.125.0
+- name: underscore
+  description: JavaScript's functional programming helper library
+  package_url: https://www.npmjs.com/underscore
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15882/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-08-10 17:42:25.000000000 Z
+  vulnerabilities:
+  - name: Arbitrary Code Execution in underscore
+    cve_id: CVE-2021-23358
+    cve_url: https://github.com/advisories/GHSA-cf4h-3jhx-xvhq
+    detected_date: Aug 22
+    severity: critical
+    first_patched: 1.12.1
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: js/package-lock.json
+  detection_source: jslab/package.json
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2019-10-31 14:37:25.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-04-13 11:56:54.000000000 Z
+- name: webrtc-adapter
+  description: A shim to insulate apps from WebRTC spec changes and browser prefix
+    differences
+  package_url: https://www.npmjs.com/webrtc-adapter
+  version: 4.2.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18419/default_1919a1e6c34ecf5ab705cd18ad77952fb01d040b.png
+  detection_source_url: js/package-lock.json
+  detection_source: js/package.json
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-08-10 17:42:25.000000000 Z
+- name: bokeh
+  description: Interactive plots and applications in the browser from Python
+  package_url: https://pypi.org/bokeh
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20175/default_b59452f5365a0e677c38da18021b9d6569ac0da7.png
+  detection_source: requirements_rtd.txt
+  last_updated_by: Maarten A. Breddels
+  last_updated_on: 2021-10-29 20:26:46.000000000 Z
+- name: nbconvert
+  description: Converting Jupyter Notebooks
+  package_url: https://pypi.org/nbconvert
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20059/default_07febc56eb57b6d4c91eb3ad11874d5d88882ab0.png
+  detection_source: requirements_rtd.txt
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-10-28 18:05:45.000000000 Z
+- name: recommonmark
+  description: A docutils-compatibility bridge to CommonMark
+  package_url: https://pypi.org/recommonmark
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20785/default_3dc6e3c6dcf3f86c14c11b522f418f25779a676a.png
+  detection_source: requirements_rtd.txt
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2021-10-28 18:05:45.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/requests
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source: setup.py
+  last_updated_by: Maarten Breddels
+  last_updated_on: 2018-09-12 13:01:33.000000000 Z
+- name: traitlets
+  description: Traitlets Python config system
+  package_url: https://pypi.org/traitlets
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20029/default_73018c8841403fdd7d8f629d056cba8f938c5589.png
+  detection_source: setup.py
+  last_updated_by: maartenbreddels
+  last_updated_on: 2017-01-21 08:28:28.000000000 Z
