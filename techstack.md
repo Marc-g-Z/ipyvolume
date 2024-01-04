@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Marc-g-Z/ipyvolume is built on the following main stack:
+
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [RequireJS](http://requirejs.org/) – Front End Package Manager
 - [Python](https://www.python.org) – Languages
@@ -31,11 +32,13 @@ Marc-g-Z/ipyvolume is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Marc-g-Z/ipyvolume is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -65,14 +68,15 @@ Marc-g-Z/ipyvolume is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Marc-g-Z/ipyvolume](https://github.com/Marc-g-Z/ipyvolume)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|69<br/>Tools used|11/09/23 <br/>Report generated|
+|70<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -360,7 +364,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (37)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (38)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (32)
 
@@ -400,17 +404,18 @@ Full tech stack [here](/techstack.md)
 |[webrtc-adapter](https://www.npmjs.com/webrtc-adapter)|v4.2.2|08/10/17|maartenbreddels |BSD-3-Clause|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (5)
+## <img width='24' height='24' src='https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg'/> PyPI (6)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[bokeh](https://pypi.org/bokeh)|N/A|10/29/21|Maarten A. Breddels |BSD-3-Clause|N/A|
-|[nbconvert](https://pypi.org/nbconvert)|N/A|10/28/21|Maarten Breddels |BSD-3-Clause|N/A|
-|[recommonmark](https://pypi.org/recommonmark)|N/A|10/28/21|Maarten Breddels |MIT|N/A|
-|[requests](https://pypi.org/requests)|N/A|09/12/18|Maarten Breddels |Apache-2.0|N/A|
-|[traitlets](https://pypi.org/traitlets)|N/A|01/21/17|maartenbreddels |BSD-3-Clause|N/A|
+|[bokeh](https://pypi.org/project/bokeh)|N/A|10/29/21|Maarten A. Breddels |BSD-3-Clause|N/A|
+|[docutils](https://pypi.org/project/docutils)|v0.17.1|10/29/21|Maarten A. Breddels |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
+|[nbconvert](https://pypi.org/project/nbconvert)|N/A|10/28/21|Maarten Breddels |BSD-3-Clause|N/A|
+|[recommonmark](https://pypi.org/project/recommonmark)|N/A|10/28/21|Maarten Breddels |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|N/A|09/12/18|Maarten Breddels |Apache-2.0|N/A|
+|[traitlets](https://pypi.org/project/traitlets)|N/A|01/21/17|maartenbreddels |BSD-3-Clause|N/A|
 
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
